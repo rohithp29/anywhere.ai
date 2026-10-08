@@ -12,6 +12,23 @@
 - **Export & Download:** Save your AI-generated travel plans directly as Markdown files.
 - **Premium Design:** Features a modern, glassmorphic UI with smooth animations, dynamic suggestion chips, and responsive breakpoints.
 
+## 📸 Screenshots
+
+### The anywhere.ai Interface
+![Hero Section](assets/hero.png)
+
+### Multi-Step Trip Builder Wizard
+![Trip Wizard](assets/wizard.png)
+
+### Floating AI Chatbot
+![Floating Chatbot](assets/chatbot.png)
+
+### AI-Generated Itinerary & Budget
+![Itinerary View](assets/itinerary.png)
+
+### Featured International Escapes
+![Tour Packages](assets/packages.png)
+
 ## 🛠️ Tech Stack
 
 **Backend:**
