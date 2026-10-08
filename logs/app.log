@@ -1,0 +1,558 @@
+2025-07-13 23:48:23 | ERROR    | __main__ | streamlit_app.py:55 | Connection error: Backend server not accessible
+2025-07-14 08:37:20 | INFO     | src.tools.weather_tool | weather_tool.py:19 | WeatherTool initialized
+2025-07-14 08:37:28 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:18 | PlaceExplorerTool initialized
+2025-07-14 08:38:07 | INFO     | src.tools.weather_tool | weather_tool.py:19 | WeatherTool initialized
+2025-07-14 08:38:09 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:18 | PlaceExplorerTool initialized
+2025-07-14 09:02:07 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:02:07 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:02:07 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:02:07 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:02:07 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:02:07 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:02:07 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:02:07 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:02:07 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:03:32 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:03:32 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:03:32 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:03:32 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:03:32 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:03:32 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:03:32 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:03:32 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:03:32 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:18:12 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:18:13 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:18:13 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:18:13 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:18:13 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:18:13 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:18:13 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:18:13 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:18:13 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:18:45 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:18:45 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:18:45 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:18:45 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:18:45 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:18:45 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:18:45 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:18:45 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:18:45 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:20:47 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:20:47 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:20:47 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:20:47 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:20:47 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:20:47 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:20:47 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:20:47 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:20:47 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:22:28 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:22:28 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:22:28 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:22:28 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:22:28 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:22:28 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:22:28 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:22:28 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:22:28 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:29:31 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:29:31 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:29:31 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:29:31 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:29:31 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:29:31 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:29:31 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:29:31 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:29:31 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:31:12 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:31:12 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:31:12 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:31:12 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:31:12 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:31:12 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:31:40 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:31:40 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:31:40 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:31:40 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:31:40 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:31:40 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:31:40 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:31:40 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:31:40 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:31:53 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:31:53 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:31:53 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:31:53 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:31:53 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:31:53 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:32:23 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:32:23 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:32:23 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:32:23 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:32:23 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:32:23 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:32:23 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:32:23 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:32:23 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:35:57 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:35:57 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:35:57 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:35:57 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 09:35:57 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:35:57 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:35:57 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:35:57 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:35:57 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:35:57 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:35:57 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:35:57 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:35:58 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x12c6b7cb0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x12d2bc6e0> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 09:36:06 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 09:36:06 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:36:06 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:36:06 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:36:06 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:36:06 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:36:06 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:36:06 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:36:06 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:36:06 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x12d2ea710> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x12d2eb110> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 09:36:15 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 09:42:44 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:42:44 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:42:44 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:42:44 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 09:42:44 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:42:44 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:42:44 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:42:44 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:42:44 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:42:44 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:42:44 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:42:44 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:42:44 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x119a5cc20> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x119a5d7f0> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 09:42:49 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 09:42:49 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:42:49 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:42:49 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:42:49 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:42:49 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:42:49 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:42:49 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:42:49 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:42:49 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x119da6490> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x119da6e90> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 09:42:52 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 09:43:41 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 09:43:41 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 09:43:41 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 09:43:41 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 09:43:41 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:43:41 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:43:41 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:43:41 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:43:41 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:43:41 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:43:41 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:43:41 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:43:41 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x119d40410> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x119d40e10> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 09:43:45 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 09:43:45 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:43:45 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:43:45 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:43:45 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:43:45 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:43:45 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:43:45 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:43:45 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:43:45 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x10d66e520> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x10749a3f0> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 09:43:54 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 09:44:00 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 09:44:00 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:44:00 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 09:44:00 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 09:44:00 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 09:44:00 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:44:00 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 09:44:00 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 09:44:00 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 09:44:00 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x119de4b00> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x119de5350> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 09:44:13 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 13:13:05 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 13:13:05 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 13:13:05 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 13:13:05 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 13:13:05 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 13:13:05 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 13:13:05 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 13:13:05 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 13:13:05 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 13:13:05 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 13:13:05 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 13:13:05 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 13:13:06 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x120868c20> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x1208697f0> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 14:36:59 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 14:36:59 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 14:36:59 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 14:36:59 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 14:36:59 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 14:36:59 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 14:36:59 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 14:36:59 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 14:36:59 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 14:36:59 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 14:36:59 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 14:36:59 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 14:36:59 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x120760c20> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x1207617f0> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 14:37:07 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 14:37:07 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 14:37:07 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 14:37:07 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 14:37:07 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 14:37:07 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 14:37:07 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 14:37:07 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 14:37:07 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 14:37:07 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x1215a2c10> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x1215a3610> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 14:38:14 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 14:38:14 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 14:38:14 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 14:38:14 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 14:38:14 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 14:38:14 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 14:38:14 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 14:38:14 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 14:38:14 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 14:38:14 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x12028a850> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x121234050> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 14:38:35 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 14:38:35 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 14:38:35 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 14:38:35 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 14:38:35 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 14:38:35 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 14:38:35 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 14:38:35 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 14:38:35 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 14:38:35 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x12153c2b0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x12153cc30> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 14:38:42 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 15:15:59 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2025-07-14 15:15:59 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2025-07-14 15:15:59 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2025-07-14 15:15:59 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 15:15:59 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 15:15:59 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 15:15:59 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 15:15:59 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 15:15:59 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 15:15:59 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 15:15:59 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 15:15:59 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 15:15:59 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x12153e780> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x12153f100> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 15:16:08 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 15:16:08 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 15:16:08 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 15:16:08 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 15:16:08 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 15:16:08 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 15:16:08 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 15:16:09 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 15:16:09 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 15:16:09 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x1217a3890> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x121658290> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 15:16:17 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 15:16:23 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 15:16:23 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 15:16:23 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 15:16:23 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 15:16:23 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 15:16:23 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 15:16:23 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 15:16:23 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 15:16:23 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 15:16:23 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x1212399d0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x121239150> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 16:10:38 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2025-07-14 16:10:38 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 16:10:38 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'deepseek-r1-distill-llama-70b'}}}
+2025-07-14 16:10:38 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2025-07-14 16:10:38 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2025-07-14 16:10:38 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 16:10:38 | INFO     | googlemaps.client | client.py:194 | API queries_quota: 60
+2025-07-14 16:10:38 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2025-07-14 16:10:38 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2025-07-14 16:10:38 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: client=<groq.resources.chat.completions.Completions object at 0x12123b020> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x12123b8a0> model_name='deepseek-r1-distill-llama-70b' model_kwargs={} groq_api_key=SecretStr('**********')
+2025-07-14 16:10:41 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:35:30 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:35:30 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:35:32 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:35:32 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 20:35:32 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 20:35:32 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 20:35:32 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 20:35:32 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 20:35:32 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 20:36:03 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:36:04 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:36:04 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:39:06 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:39:06 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:39:06 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:39:22 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:39:23 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:39:23 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:39:23 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 20:39:23 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'llama-3.3-70b-versatile'}}}
+2026-10-08 20:39:23 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'llama-3.3-70b-versatile'}}}
+2026-10-08 20:39:23 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 20:39:23 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 20:39:23 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 20:39:23 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 20:39:23 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 20:39:23 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 20:39:23 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 20:39:39 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:39:40 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:39:40 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:39:40 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 20:39:40 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'llama-3.3-70b-versatile'}}}
+2026-10-08 20:39:40 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'llama-3.3-70b-versatile'}}}
+2026-10-08 20:39:40 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 20:39:40 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 20:39:40 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 20:39:40 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 20:39:40 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 20:39:40 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 20:39:40 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 20:39:40 | ERROR    | __main__ | main.py:68 | Error in CLI main: GROQ_API_KEY not found in environment. Please add your free key to .env (Get one for free at https://console.groq.com/keys)
+2026-10-08 20:43:00 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:43:00 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:43:00 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:43:00 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 20:43:00 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'llama-3.3-70b-versatile'}}}
+2026-10-08 20:43:00 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'llama-3.3-70b-versatile'}}}
+2026-10-08 20:43:00 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 20:43:00 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 20:43:00 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 20:43:00 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 20:43:00 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 20:43:00 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 20:43:00 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 20:43:01 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'Llama 3.3 70B Versatile', 'release_date': '2024-12-06', 'last_updated': '2024-12-06', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 32768, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': False, 'tool_calling': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x0000018C69876E40> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x0000018C69877B60> model_name='llama-3.3-70b-versatile' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 20:43:01 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-08 20:43:01 | ERROR    | __main__ | main.py:68 | Error in CLI main: Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-10-08 20:43:42 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:43:42 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:43:42 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:43:42 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 20:43:42 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 20:43:42 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 20:43:42 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 20:43:42 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 20:43:42 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 20:43:42 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 20:43:42 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 20:43:42 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:153 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 20:43:42 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 20:43:43 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'GPT OSS 120B', 'release_date': '2025-08-05', 'last_updated': '2026-05-27', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 65536, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': True, 'tool_calling': True, 'structured_output': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x00000257FEF26E40> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x00000257FEF27B60> model_name='openai/gpt-oss-120b' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 20:43:43 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:43:43 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:76 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 20:43:43 | ERROR    | __main__ | main.py:68 | Error in CLI main: Tavily API key is not configured.
+2026-10-08 20:44:03 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:44:03 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:44:03 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:44:03 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 20:44:03 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 20:44:03 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 20:44:03 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 20:44:03 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 20:44:03 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 20:44:03 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 20:44:03 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 20:44:03 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:167 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 20:44:03 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 20:44:04 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'GPT OSS 120B', 'release_date': '2025-08-05', 'last_updated': '2026-05-27', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 65536, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': True, 'tool_calling': True, 'structured_output': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x000001AF23322E40> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x000001AF23323B60> model_name='openai/gpt-oss-120b' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 20:44:05 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:44:05 | WARNING  | src.utils.weather | weather.py:72 | No OPENWEATHER_API_KEY provided.
+2026-10-08 20:44:05 | INFO     | src.tools.weather_tool | weather_tool.py:87 | Forecast data not found for Paris
+2026-10-08 20:44:06 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:44:06 | WARNING  | src.utils.weather | weather.py:53 | No OPENWEATHER_API_KEY provided.
+2026-10-08 20:44:06 | INFO     | src.tools.weather_tool | weather_tool.py:61 | Weather data not found for Paris
+2026-10-08 20:44:06 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:44:06 | WARNING  | src.tools.place_explorer_tool | place_explorer_tool.py:75 | No search API keys configured or search failed: Tavily API key is not configured.
+2026-10-08 20:44:06 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:78 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 20:44:13 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:44:13 | INFO     | src.utils.utils_main | utils_main.py:76 | Saved document to ./output/AI_Trip_Planner_2026-10-08_20-44-13.md
+2026-10-08 20:44:13 | INFO     | src.utils.utils_main | utils_main.py:83 | save_document() finished
+2026-10-08 20:50:08 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:50:09 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:50:09 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:50:09 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 20:50:09 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 20:50:09 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 20:50:09 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 20:50:09 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 20:50:09 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 20:50:09 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 20:50:09 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 20:50:09 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:167 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 20:50:09 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 20:50:10 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'GPT OSS 120B', 'release_date': '2025-08-05', 'last_updated': '2026-05-27', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 65536, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': True, 'tool_calling': True, 'structured_output': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x0000020CD624B0E0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x0000020CD624BE00> model_name='openai/gpt-oss-120b' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 20:51:08 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:51:08 | WARNING  | src.tools.place_explorer_tool | place_explorer_tool.py:75 | No search API keys configured or search failed: Tavily API key is not configured.
+2026-10-08 20:51:08 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:78 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 20:51:09 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:51:09 | WARNING  | src.utils.weather | weather.py:72 | No OPENWEATHER_API_KEY provided.
+2026-10-08 20:51:09 | INFO     | src.tools.weather_tool | weather_tool.py:87 | Forecast data not found for Singapore
+2026-10-08 20:51:16 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:54:44 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:54:44 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:54:44 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:54:59 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:54:59 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:54:59 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:55:01 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:55:50 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 20:55:51 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 20:55:51 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 20:55:51 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 20:55:51 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 20:55:51 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 20:55:51 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 20:55:51 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 20:55:51 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 20:55:51 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 20:55:51 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 20:55:51 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:167 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 20:55:51 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 20:55:51 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'GPT OSS 120B', 'release_date': '2025-08-05', 'last_updated': '2026-05-27', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 65536, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': True, 'tool_calling': True, 'structured_output': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x00000270E45F27B0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x00000270E45F3B60> model_name='openai/gpt-oss-120b' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 20:55:53 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 20:55:53 | WARNING  | src.tools.place_explorer_tool | place_explorer_tool.py:75 | No search API keys configured or search failed: Tavily API key is not configured.
+2026-10-08 20:55:53 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:78 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 20:56:00 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:01:25 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 21:01:25 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 21:01:25 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 21:04:40 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 21:04:41 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 21:04:41 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 21:06:40 | INFO     | app | app.py:136 | Received trip plan request for destination: Singapore, days: 7, persona: Couple
+2026-10-08 21:06:40 | INFO     | app | app.py:38 | Initializing GraphWorkflow with provider: groq
+2026-10-08 21:06:40 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 21:06:40 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 21:06:40 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 21:06:40 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 21:06:40 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 21:06:40 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 21:06:40 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 21:06:40 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 21:06:40 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:167 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 21:06:40 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 21:06:41 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'GPT OSS 120B', 'release_date': '2025-08-05', 'last_updated': '2026-05-27', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 65536, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': True, 'tool_calling': True, 'structured_output': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x00000264FFC757F0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x00000264FFC76510> model_name='openai/gpt-oss-120b' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 21:06:42 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:06:42 | WARNING  | src.utils.weather | weather.py:72 | No OPENWEATHER_API_KEY provided.
+2026-10-08 21:06:42 | INFO     | src.tools.weather_tool | weather_tool.py:87 | Forecast data not found for Singapore
+2026-10-08 21:06:43 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:06:43 | WARNING  | src.utils.weather | weather.py:53 | No OPENWEATHER_API_KEY provided.
+2026-10-08 21:06:43 | INFO     | src.tools.weather_tool | weather_tool.py:61 | Weather data not found for Singapore
+2026-10-08 21:06:44 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:06:44 | INFO     | src.utils.utils_main | utils_main.py:121 | Multiplying 100.0 and 7.0
+2026-10-08 21:06:44 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:65 | Calculating total hotel expenses for 100.0 per night for 7.0 nights: 700.0
+2026-10-08 21:06:44 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:06:44 | WARNING  | src.tools.place_explorer_tool | place_explorer_tool.py:75 | No search API keys configured or search failed: Tavily API key is not configured.
+2026-10-08 21:06:44 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:78 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 21:06:51 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:06:51 | INFO     | src.utils.utils_main | utils_main.py:76 | Saved document to ./output/AI_Trip_Planner_2026-10-08_21-06-51.md
+2026-10-08 21:06:51 | INFO     | src.utils.utils_main | utils_main.py:83 | save_document() finished
+2026-10-08 21:07:59 | INFO     | app | app.py:136 | Received trip plan request for destination: Singapore, days: 5, persona: Family
+2026-10-08 21:08:00 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:08:00 | WARNING  | src.utils.weather | weather.py:72 | No OPENWEATHER_API_KEY provided.
+2026-10-08 21:08:00 | INFO     | src.tools.weather_tool | weather_tool.py:87 | Forecast data not found for Singapore
+2026-10-08 21:08:01 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:08:01 | WARNING  | src.utils.weather | weather.py:53 | No OPENWEATHER_API_KEY provided.
+2026-10-08 21:08:01 | INFO     | src.tools.weather_tool | weather_tool.py:61 | Weather data not found for Singapore
+2026-10-08 21:08:01 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:08:01 | WARNING  | src.tools.place_explorer_tool | place_explorer_tool.py:75 | No search API keys configured or search failed: Tavily API key is not configured.
+2026-10-08 21:08:01 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:78 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 21:08:14 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:08:14 | INFO     | src.utils.utils_main | utils_main.py:76 | Saved document to ./output/AI_Trip_Planner_2026-10-08_21-08-14.md
+2026-10-08 21:08:14 | INFO     | src.utils.utils_main | utils_main.py:83 | save_document() finished
+2026-10-08 21:18:24 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 21:18:24 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 21:18:24 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 21:21:45 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 21:21:45 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 21:21:45 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 21:23:12 | INFO     | app | app.py:202 | Received wizard trip request for Switzerland (9 - 10 Days, Friends)
+2026-10-08 21:23:12 | INFO     | app | app.py:38 | Initializing GraphWorkflow with provider: groq
+2026-10-08 21:23:12 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 21:23:12 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 21:23:12 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 21:23:12 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 21:23:12 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 21:23:12 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 21:23:12 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 21:23:12 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 21:23:12 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:167 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 21:23:12 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 21:23:13 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'GPT OSS 120B', 'release_date': '2025-08-05', 'last_updated': '2026-05-27', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 65536, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': True, 'tool_calling': True, 'structured_output': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x0000020FD6FE1BE0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x0000020FD6FE2900> model_name='openai/gpt-oss-120b' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 21:23:14 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:23:14 | WARNING  | src.utils.weather | weather.py:72 | No OPENWEATHER_API_KEY provided.
+2026-10-08 21:23:14 | INFO     | src.tools.weather_tool | weather_tool.py:87 | Forecast data not found for Geneva
+2026-10-08 21:23:15 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:23:15 | WARNING  | src.utils.weather | weather.py:53 | No OPENWEATHER_API_KEY provided.
+2026-10-08 21:23:15 | INFO     | src.tools.weather_tool | weather_tool.py:61 | Weather data not found for Geneva
+2026-10-08 21:23:16 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:23:16 | WARNING  | src.tools.place_explorer_tool | place_explorer_tool.py:75 | No search API keys configured or search failed: Tavily API key is not configured.
+2026-10-08 21:23:16 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:78 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 21:23:23 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:23:23 | INFO     | src.utils.utils_main | utils_main.py:76 | Saved document to ./output/AI_Trip_Planner_2026-10-08_21-23-23.md
+2026-10-08 21:23:23 | INFO     | src.utils.utils_main | utils_main.py:83 | save_document() finished
+2026-10-08 21:35:13 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 21:35:13 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 21:35:13 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 21:35:47 | INFO     | app | app.py:202 | Received wizard trip request for Singapore (9 - 10 Days, Friends)
+2026-10-08 21:35:47 | INFO     | app | app.py:38 | Initializing GraphWorkflow with provider: groq
+2026-10-08 21:35:47 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 21:35:47 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 21:35:47 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 21:35:47 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 21:35:47 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 21:35:47 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 21:35:47 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 21:35:47 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 21:35:47 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:167 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 21:35:47 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 21:35:48 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'GPT OSS 120B', 'release_date': '2025-08-05', 'last_updated': '2026-05-27', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 65536, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': True, 'tool_calling': True, 'structured_output': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x000001187B2A1BE0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x000001187B2A2900> model_name='openai/gpt-oss-120b' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 21:35:49 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:35:49 | WARNING  | src.tools.place_explorer_tool | place_explorer_tool.py:75 | No search API keys configured or search failed: Tavily API key is not configured.
+2026-10-08 21:35:49 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:78 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 21:35:54 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:35:54 | INFO     | src.utils.utils_main | utils_main.py:76 | Saved document to ./output/AI_Trip_Planner_2026-10-08_21-35-54.md
+2026-10-08 21:35:54 | INFO     | src.utils.utils_main | utils_main.py:83 | save_document() finished
+2026-10-08 21:39:50 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 21:39:50 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 21:39:50 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 21:44:56 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 21:44:57 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 21:44:57 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized
+2026-10-08 21:45:49 | INFO     | app | app.py:202 | Received wizard trip request for Japan (9 - 10 Days, Friends)
+2026-10-08 21:45:49 | INFO     | app | app.py:38 | Initializing GraphWorkflow with provider: groq
+2026-10-08 21:45:49 | INFO     | src.utils.utils_main | utils_main.py:159 | ConfigLoader initialized
+2026-10-08 21:45:49 | INFO     | src.utils.utils_main | utils_main.py:44 | Loaded config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 21:45:49 | INFO     | src.utils.utils_main | utils_main.py:161 | ConfigLoader config: {'llm': {'openai': {'provider': 'openai', 'model_name': 'o4-mini'}, 'groq': {'provider': 'groq', 'model_name': 'openai/gpt-oss-120b'}}}
+2026-10-08 21:45:49 | INFO     | src.utils.weather | weather.py:42 | WeatherForcast initialized
+2026-10-08 21:45:49 | WARNING  | src.utils.weather | weather.py:46 | OPENWEATHER_API_KEY is not set in environment.
+2026-10-08 21:45:49 | INFO     | src.tools.weather_tool | weather_tool.py:90 | WeatherTool._setup_tools() finished
+2026-10-08 21:45:49 | WARNING  | src.utils.places | places.py:31 | GOOGLE_MAPS_API_KEY is not set.
+2026-10-08 21:45:49 | WARNING  | src.utils.places | places.py:65 | TAVILY_API_KEY is not set.
+2026-10-08 21:45:49 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:167 | PlaceExplorerTool._setup_tools() finished
+2026-10-08 21:45:49 | INFO     | src.utils.utils_main | utils_main.py:98 | MathUtils initialized
+2026-10-08 21:45:49 | INFO     | src.utils.utils_main | utils_main.py:213 | Loaded model: metadata={'lc_versions': {'langchain-core': '1.6.7', 'langchain': '1.4.3'}} profile={'name': 'GPT OSS 120B', 'release_date': '2025-08-05', 'last_updated': '2026-05-27', 'open_weights': True, 'max_input_tokens': 131072, 'max_output_tokens': 65536, 'text_inputs': True, 'image_inputs': False, 'audio_inputs': False, 'video_inputs': False, 'text_outputs': True, 'image_outputs': False, 'audio_outputs': False, 'video_outputs': False, 'reasoning_output': True, 'tool_calling': True, 'structured_output': True, 'attachment': False, 'temperature': True} client=<groq.resources.chat.completions.Completions object at 0x000002FC685B1BE0> async_client=<groq.resources.chat.completions.AsyncCompletions object at 0x000002FC685B2900> model_name='openai/gpt-oss-120b' model_kwargs={} groq_api_key=SecretStr('**********')
+2026-10-08 21:45:50 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:45:50 | WARNING  | src.tools.place_explorer_tool | place_explorer_tool.py:75 | No search API keys configured or search failed: Tavily API key is not configured.
+2026-10-08 21:45:50 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:78 | PlaceExplorerTool.fetch_attractions() finished
+2026-10-08 21:45:56 | INFO     | httpx | _client.py:1025 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-08 21:45:56 | INFO     | src.utils.utils_main | utils_main.py:76 | Saved document to ./output/AI_Trip_Planner_2026-10-08_21-45-56.md
+2026-10-08 21:45:56 | INFO     | src.utils.utils_main | utils_main.py:83 | save_document() finished
+2026-10-08 21:51:02 | INFO     | src.tools.weather_tool | weather_tool.py:28 | WeatherTool initialized
+2026-10-08 21:51:03 | INFO     | src.tools.place_explorer_tool | place_explorer_tool.py:28 | PlaceExplorerTool initialized
+2026-10-08 21:51:03 | INFO     | src.tools.expenses_calc_tool | expenses_calc_tool.py:30 | ExpensesCalcTool initialized

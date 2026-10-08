@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>anywhere.ai - Custom International Holiday Packages & AI Travel Planner</title>
+    <meta name="description" content="Plan customized international holidays with anywhere.ai (AI Travel Agent). Tailored itineraries, real-time weather, hotel recommendations, and budget breakdowns.">
+    
+    <!-- Google Fonts & Marked.js -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/chat.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <a href="/" class="navbar-brand">
+            ✈️ <span>anywhere</span>.ai
+        </a>
+        <ul class="nav-links">
+            <li><a href="/builder" style="color: var(--primary-cyan); font-weight: 700;">✨ Multi-Step Trip Builder</a></li>
+            <li><a href="#packages">Tour Packages</a></li>
+            <li><a href="#planner">Quick Planner</a></li>
+        </ul>
+        <a href="/builder" class="btn-nav-action" style="text-decoration: none;">
+            Plan My Trip Wizard ❯
+        </a>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-section" id="planner">
+        <div class="hero-bg-overlay"></div>
+        <video class="hero-video" autoplay loop muted playsinline>
+            <source src="https://assets.mixkit.co/videos/preview/mixkit-sunset-over-the-sea-and-mountains-42845-large.mp4" type="video/mp4">
+        </video>
+
+        <div class="hero-content">
+            <h1 class="hero-title">
+                Unfold Your Dream Journey with <span>anywhere.ai</span>
+            </h1>
+            <p class="hero-subtitle">
+                100% Customized international holidays crafted instantly by your AI Travel Agent. Choose your vibe, duration, pace &amp; preferred cities.
+            </p>
+            <!-- Fixed: proper button instead of underlined link -->
+            <div class="hero-cta-group">
+                <a href="/builder" class="btn-wizard-hero" id="btnWizardHero">
+                    <span class="btn-wizard-icon">✨</span>
+                    Start Trip Builder Wizard
+                    <span class="btn-wizard-arrow">❯</span>
+                </a>
+                <span class="hero-divider">or use the quick planner below</span>
+            </div>
+        </div>
+
+        <!-- Trip Builder Wizard Card -->
+        <div class="planner-card glass-panel">
+            <form id="planForm">
+                <input type="hidden" id="personaInput" value="Couple">
+                
+                <div class="planner-form-grid">
+                    <div class="form-group">
+                        <label class="form-label" for="destinationInput">Where to?</label>
+                        <input type="text" id="destinationInput" class="form-input" placeholder="e.g. Paris, Bali, Tokyo, Goa" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label" for="daysSelect">Duration</label>
+                        <select id="daysSelect" class="form-select">
+                            <option value="3">3 Days</option>
+                            <option value="4">4 Days</option>
+                            <option value="5" selected>5 Days</option>
+                            <option value="7">7 Days</option>
+                            <option value="10">10 Days</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label" for="budgetSelect">Budget Style</label>
+                        <select id="budgetSelect" class="form-select">
+                            <option value="Budget">Budget Friendly</option>
+                            <option value="Moderate" selected>Comfort / Moderate</option>
+                            <option value="Luxury">Luxury Escape</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label">&nbsp;</label>
+                        <button type="submit" id="btnGenerate" class="btn-generate">
+                            🚀 <span>Plan My Trip</span>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- Personas Pills Section -->
+    <section class="personas-section">
+        <p class="section-label">Who's coming along?</p>
+        <div class="personas-flex">
+            <div class="persona-pill active" data-persona="Couple">
+                <img src="https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=200&auto=format&fit=crop&q=80" alt="Couple" class="persona-avatar">
+                <span class="persona-name">Couple</span>
+            </div>
+            <div class="persona-pill" data-persona="Family">
+                <img src="https://images.unsplash.com/photo-1511895426328-dc8714191300?w=200&auto=format&fit=crop&q=80" alt="Family" class="persona-avatar">
+                <span class="persona-name">Family</span>
+            </div>
+            <div class="persona-pill" data-persona="Friends">
+                <img src="https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=200&auto=format&fit=crop&q=80" alt="Friends" class="persona-avatar">
+                <span class="persona-name">Friends</span>
+            </div>
+            <div class="persona-pill" data-persona="Solo">
+                <img src="https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=200&auto=format&fit=crop&q=80" alt="Solo" class="persona-avatar">
+                <span class="persona-name">Solo</span>
+            </div>
+            <div class="persona-pill" data-persona="Seniors">
+                <img src="https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=200&auto=format&fit=crop&q=80" alt="Seniors" class="persona-avatar">
+                <span class="persona-name">Seniors</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Packages Carousel -->
+    <section class="packages-section" id="packages">
+        <div class="section-title-wrap">
+            <div>
+                <p class="section-label">EXCLUSIVE WITH ANYWHERE.AI</p>
+                <h2 class="section-title">Featured International Escapes</h2>
+            </div>
+        </div>
+
+        <div class="packages-grid">
+            {% for pkg in packages %}
+            <div class="package-card">
+                <div class="package-img-wrap">
+                    <img src="{{ pkg.image }}" alt="{{ pkg.title }}" class="package-img" loading="lazy">
+                    <span class="package-badge">{{ pkg.badge }}</span>
+                </div>
+                <div class="package-body">
+                    <div>
+                        <h3 class="package-name">{{ pkg.title }}</h3>
+                        <p class="package-meta">
+                            <span>📍 {{ pkg.destination }}</span> • <span>⏳ {{ pkg.duration }}</span>
+                        </p>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            {{ pkg.price }} <span>/ Person</span>
+                        </div>
+                        <button class="btn-package-plan" 
+                                data-dest="{{ pkg.destination }}" 
+                                data-days="{{ pkg.days }}" 
+                                data-persona="{{ pkg.persona }}">
+                            Customize AI Plan
+                        </button>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+
+    <!-- AI Loading Indicator Overlay -->
+    <div id="loadingOverlay" class="loading-overlay">
+        <div class="loading-inner">
+            <div class="spinner"></div>
+            <h3 style="font-family: var(--font-heading); font-size: 1.5rem; color: var(--primary-cyan); margin-bottom: 8px;">
+                anywhere.ai Agent is crafting your trip...
+            </h3>
+            <p id="loadingStatusText" style="color: var(--text-secondary); font-size: 1rem;">
+                Searching attractions, weather forecast &amp; hotels...
+            </p>
+        </div>
+    </div>
+
+    <!-- Results Section - Structured Itinerary Layout -->
+    <section id="resultsSection" class="results-section">
+        <div class="results-header">
+            <div>
+                <p class="section-label">YOUR AI GENERATED ITINERARY</p>
+                <h2 class="section-title" style="margin: 0;" id="resSectionTitle">Tailored Travel Plan</h2>
+            </div>
+            <div class="results-actions">
+                <button id="btnDownload" class="btn-download">
+                    📥 <span>Download Plan (.md)</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Structured Day-by-Day Itinerary + Route Sidebar -->
+        <div class="itinerary-layout">
+            <!-- Left: Day-by-Day Cards -->
+            <div class="itinerary-main" id="itineraryMain">
+                <!-- Rendered by JS -->
+            </div>
+
+            <!-- Right: Route Sidebar -->
+            <div class="itinerary-sidebar" id="itinerarySidebar">
+                <div class="sidebar-card">
+                    <p class="sidebar-add-details">✏️ Add Trip Details</p>
+                    <button class="btn-view-price" id="btnViewPrice">View price</button>
+                </div>
+                <div class="sidebar-card">
+                    <h4 class="sidebar-route-title">Your route</h4>
+                    <div id="routeList" class="route-list">
+                        <!-- Injected by JS -->
+                    </div>
+                    <div class="sidebar-route-actions">
+                        <button class="btn-route-action">✏️ Edit Route</button>
+                        <button class="btn-route-action">+ Add City</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Raw Markdown fallback (hidden but downloadable) -->
+        <div id="markdownContent" style="display:none;"></div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>© 2026 anywhere.ai Travel Agent. Powered by LangChain, LangGraph &amp; Groq.</p>
+    </footer>
+
+    <!-- ================================================================
+         ANYWHERE.AI FLOATING CHATBOT WIDGET
+         ================================================================ -->
+    <div id="chatWidget" class="chat-widget">
+
+        <!-- Floating Trigger Button -->
+        <button id="chatTrigger" class="chat-trigger" aria-label="Open anywhere.ai Chat">
+            <span class="chat-trigger-icon" id="chatTriggerIcon">
+                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+                </svg>
+            </span>
+            <span class="chat-trigger-label">Ask anywhere.ai</span>
+            <span class="chat-trigger-pulse"></span>
+        </button>
+
+        <!-- Chat Panel -->
+        <div class="chat-panel" id="chatPanel" aria-hidden="true">
+
+            <!-- Header -->
+            <div class="chat-header">
+                <div class="chat-header-info">
+                    <div class="chat-avatar">
+                        <span>✈️</span>
+                        <span class="chat-online-dot"></span>
+                    </div>
+                    <div>
+                        <h3 class="chat-header-name">anywhere.ai Agent</h3>
+                        <p class="chat-header-status">AI Travel Planner · Online</p>
+                    </div>
+                </div>
+                <button class="chat-close-btn" id="chatCloseBtn" aria-label="Close chat">✕</button>
+            </div>
+
+            <!-- Messages -->
+            <div class="chat-messages" id="chatMessages">
+                <!-- Welcome bubble -->
+                <div class="chat-msg chat-msg-bot">
+                    <div class="chat-bubble">
+                        👋 Hi! I'm your <strong>anywhere.ai</strong> travel agent. Ask me anything about trips, destinations, budgets, or visas!
+                    </div>
+                    <span class="chat-time">Just now</span>
+                </div>
+
+                <!-- Quick suggestion chips -->
+                <div class="chat-chips" id="chatChips">
+                    <button class="chip" data-query="Plan a 7-day romantic trip to Paris for a couple with a moderate budget">🗼 7 Days in Paris</button>
+                    <button class="chip" data-query="What are the best things to do in Bali for 5 days?">🌴 Best of Bali</button>
+                    <button class="chip" data-query="Plan a budget-friendly 5-day trip to Thailand for friends">🍜 Thailand on Budget</button>
+                    <button class="chip" data-query="What is the best time to visit Japan? Plan a 10-day Japan itinerary">🌸 Japan Cherry Blossom</button>
+                    <button class="chip" data-query="Plan a luxury 4-night Maldives honeymoon escape">🐠 Maldives Luxury</button>
+                    <button class="chip" data-query="What documents do I need to travel from India to Switzerland?">📋 Switzerland Visa Tips</button>
+                </div>
+            </div>
+
+            <!-- Typing indicator (hidden by default) -->
+            <div class="chat-typing" id="chatTyping" style="display:none;">
+                <div class="chat-bubble typing-bubble">
+                    <span></span><span></span><span></span>
+                </div>
+            </div>
+
+            <!-- Input -->
+            <div class="chat-input-bar">
+                <input
+                    type="text"
+                    id="chatInput"
+                    class="chat-input"
+                    placeholder="Ask about any destination, budget, visa..."
+                    autocomplete="off"
+                    maxlength="500"
+                >
+                <button class="chat-send-btn" id="chatSendBtn" aria-label="Send">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+                    </svg>
+                </button>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Frontend JS -->
+    <script src="/static/js/app.js"></script>
+    <script src="/static/js/chat.js"></script>
+</body>
+</html>
+
